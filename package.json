@@ -42,7 +42,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/procsight-api"
   },
   "dependencies": {
-    "procsight-api": "git://github.com/procurrency/procsight-api"
+    "procsight-api": "git://github.com/procommerce-io/procsight-api"
   },
   "devDependencies": {
     "bower": "~1.2.8",

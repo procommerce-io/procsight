@@ -25,7 +25,7 @@ Check some screenshots and more details at [insight's project homepage](http://i
 
   To install Insight, clone the main repository:
 
-    $ git clone -b procsight https://github.com/procurrency/insight.git && cd insight
+    $ git clone -b procsight https://github.com/procommerce-io/insight.git && cd insight
 
   Install dependencies:
 
